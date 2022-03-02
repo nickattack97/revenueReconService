@@ -1,0 +1,7 @@
+c:\users\adminapps\documents\visual studio 2013\Projects\revenueRecoService\revenueRecoService\bin\Debug\revenueRecoService.exe.config
+c:\users\adminapps\documents\visual studio 2013\Projects\revenueRecoService\revenueRecoService\bin\Debug\revenueRecoService.exe
+c:\users\adminapps\documents\visual studio 2013\Projects\revenueRecoService\revenueRecoService\bin\Debug\revenueRecoService.pdb
+c:\users\adminapps\documents\visual studio 2013\Projects\revenueRecoService\revenueRecoService\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\adminapps\documents\visual studio 2013\Projects\revenueRecoService\revenueRecoService\obj\Debug\revenueRecoService.csprojResolveAssemblyReference.cache
+c:\users\adminapps\documents\visual studio 2013\Projects\revenueRecoService\revenueRecoService\obj\Debug\revenueRecoService.exe
+c:\users\adminapps\documents\visual studio 2013\Projects\revenueRecoService\revenueRecoService\obj\Debug\revenueRecoService.pdb
